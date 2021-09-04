@@ -1,0 +1,23 @@
+.container {
+
+	} {
+	max-width: 1600px;
+	padding: 0 210px;
+	box-sizing: border-box;
+}
+.header_top {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 50px;
+
+}
+.main_menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.main_menu ul li {
+	display: inline-block;
+	padding-right: 36px;
+}
+
